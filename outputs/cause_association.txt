@@ -1,0 +1,15 @@
+
+    --- Cause Association ---
+    Detected change point: 2004-04-22
+    Closest researched event: 2003-03-20 - US-led invasion of Iraq begins (Geopolitical)
+    Time difference: 399 days (~13.3 months)
+
+    Interpretation:
+    The detected structural break occurred about 13.3 months after the invasion of Iraq.
+    While the invasion itself introduced geopolitical risk, the sustained instability through 2003–2004
+    likely amplified oil supply concerns, driving the transition to a higher price regime.
+    During this shift, the mean Brent oil price rose from $20.40 to $74.02
+    (a 262.9% increase), and volatility increased from 5.59 to 25.78.
+    This suggests that the market's reaction was not instantaneous but developed over time as
+    supply disruptions and demand pressures accumulated.
+    
