@@ -1,1 +1,32 @@
-data/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv310/
+venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Flask instance folder
+instance/
+
+# React / Node.js
+node_modules/
+build/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
